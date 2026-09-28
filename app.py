@@ -1,0 +1,1 @@
+print("Quant Strategy Platform")

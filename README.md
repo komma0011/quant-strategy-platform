@@ -1,2 +1,2 @@
-# quant-strategy-platform
+# -
 나만의 투자 전략 백 테스팅과 시그널 알림 플랫폼
